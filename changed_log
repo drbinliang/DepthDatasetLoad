@@ -1,0 +1,6 @@
+- Version 1.0.0 (2015-12-27)
+- modules add:  
+  - depth data loading from MSR Action3D dataset
+  - depth data loading from  MSR Action Pairs dataset
+  - depth data loading from  MSR Gesture3D dataset
+  - depth data loading from  UTKinect Action dataset
